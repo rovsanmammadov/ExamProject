@@ -1,0 +1,51 @@
+﻿  ExamProject.cpp
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(10,10): error C2601: 'createBoard': local function definitions are illegal
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(6,1):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(18,10): error C2601: 'displayBoard': local function definitions are illegal
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(6,1):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(27,9): error C2601: 'main': local function definitions are illegal
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(6,1):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(11,29): error C2563: mismatch in formal parameter list
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(11,29): error C2568: '<': unable to resolve function overload
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(11,29):
+      could be 'size_t std::size(const _Ty (&)[_Size]) noexcept'
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(11,29):
+      or       'unknown-type std::size(const _Container &) noexcept(<expr>)'
+  
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(12,33): error C2563: mismatch in formal parameter list
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(12,33): error C2568: '<': unable to resolve function overload
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(12,33):
+      could be 'size_t std::size(const _Ty (&)[_Size]) noexcept'
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(12,33):
+      or       'unknown-type std::size(const _Container &) noexcept(<expr>)'
+  
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(19,29): error C2563: mismatch in formal parameter list
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(19,29): error C2568: '<': unable to resolve function overload
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(19,29):
+      could be 'size_t std::size(const _Ty (&)[_Size]) noexcept'
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(19,29):
+      or       'unknown-type std::size(const _Container &) noexcept(<expr>)'
+  
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(20,33): error C2563: mismatch in formal parameter list
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(20,33): error C2568: '<': unable to resolve function overload
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(20,33):
+      could be 'size_t std::size(const _Ty (&)[_Size]) noexcept'
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(20,33):
+      or       'unknown-type std::size(const _Container &) noexcept(<expr>)'
+  
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(28,20): error C2131: expression did not evaluate to a constant
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(28,20):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(28,26): error C2131: expression did not evaluate to a constant
+      C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(28,26):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(30,9): error C3861: 'createBoard': identifier not found
+C:\Users\Acer\source\repos\ExamProject\ExamProject\ExamProject.cpp(30,29): error C2059: syntax error: '/'
